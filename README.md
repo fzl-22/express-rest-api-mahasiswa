@@ -4,6 +4,7 @@
 | -- | -- |
 | NIM | 1203210011 |
 | Kelas | IF-01-02 |
+| Laporan Praktikum | [LAPORAN.pdf](./LAPORAN.pdf)
 
 Repositori Frontend (React): [**https://github.com/fzl-22/react-crud-mahasiswa**](https://github.com/fzl-22/react-crud-mahasiswa)
 
